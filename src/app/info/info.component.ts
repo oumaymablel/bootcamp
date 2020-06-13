@@ -6,7 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./info.component.css']
 })
 export class InfoComponent implements OnInit {
-
+  lat : Number = 36.874875 ;
+  long : Number = 10.274059
   constructor() { }
 
   ngOnInit(): void {

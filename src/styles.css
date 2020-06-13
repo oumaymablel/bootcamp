@@ -2781,6 +2781,7 @@
   position            : relative;
   transform           : rotate(0deg);
   width               : 1551px;
+
 }
 .desktophd .world-1-qsV8xx {
   background-color    : rgba(255,255,255,0);
@@ -3029,6 +3030,7 @@
 }
 .desktophd .rectangle-IPZyWA {
   background-color    : rgba(255,255,255,0);
+  background-image    : url(../src/assets/img/desktop-hd-rectangle-19@2x.png);
   flex-shrink         : 0;
   height              : 72px;
   margin-top          : 28px;
@@ -3361,7 +3363,6 @@
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
-  min-height          : 7600px;
   overflow            : hidden;
   position            : relative;
   width               : 1920.0px;
